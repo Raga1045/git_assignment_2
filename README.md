@@ -9,6 +9,5 @@
 
 This project demonstrates GitHub collaboration workflows including:
 - Branching
-- Pull Requests
 - Issues
 - Team collaboration
